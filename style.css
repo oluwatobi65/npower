@@ -1,0 +1,108 @@
+https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css
+*{
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+}
+.container{
+	background: #edf5f2;
+	font-size: 16px;
+	font-family: aerial, sans-serif;
+	height: 90vh;
+}
+header{
+	top: 0;
+	left: 0;
+	font-size: 25px;
+	text-transform: capitalize;
+	font-weight: bold;
+	display: flex;
+	justify-content: space-between;
+}
+li{
+	text-decoration: none;
+	list-style: none;
+	display: inline;
+	margin-top: 30px;
+}
+li a{
+	text-decoration: none;
+	color: #0c0b0b;
+	text-transform: uppercase;
+	padding: 30px;
+	font-size: 20px;
+}
+li a:hover{
+	color: #60ce70;
+}
+p{
+	line-height: 1.5;
+
+}
+span{
+	font-weight: bold;
+	font-size: 18px;
+	text-transform: capitalize;
+	margin-top: 20px;
+}
+.black{
+	background: #172118;
+	font-size: 20px;
+	text-transform: uppercase;
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 3px;
+}
+h1{
+	color: #fff;
+}
+.boxes{
+	margin-top: 40px;
+	display: flex;
+	float: right;
+	width: 90%;
+
+}
+.cf{
+	clear: both;
+}
+.box1{
+	padding-right: 20px;
+	margin-right: 40px;
+	background-color: #fff;
+	height: 40vh;
+	border-color: none;
+	text-align: center;
+}
+.box2{
+	padding-right: 20px;
+	margin-right: 30px;
+	background-color: #fff;
+	height: 40vh;
+	border-color: none;
+	text-align: center;
+
+}
+.box3{
+	padding-right: 20px;
+	margin-right: 30px;
+	background-color: #fff;
+	height: 40vh;
+	border-color: none;
+	text-align: center;
+}
+.box4{
+	padding-right: 20px;
+	margin-right: 40px;
+	background-color: #fff;
+	height: 40vh;
+	border-color: none;
+	text-align: center;
+}
+footer{
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 20px;
+	text-align: center;
+	margin-top: 20px;
+}
